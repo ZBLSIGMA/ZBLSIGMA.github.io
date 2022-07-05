@@ -14,5 +14,5 @@ mass–spring–inerter system. '
 date: 2022-05-01
 venue: 'published at Mechanical Systems and Signal Processing'
 coauthors: 'Qida Xie, and Chanying Li'
-paperurl: 'https://ZBLSIGMA.github.io/files/mui-schoefer_2021wp_alsc1.pdf'
+paperurl: 'https://ZBLSIGMA.github.io/files/mssp1.pdf'
 ---
