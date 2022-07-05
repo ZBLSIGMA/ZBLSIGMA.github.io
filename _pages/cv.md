@@ -26,15 +26,8 @@ Professional Experience
 
 Teaching
 ======
-Teaching Assistantships:
-* Econ-101b (Honors Macroeconomic Theory), Prof. Benjamin Schoefer. UC-Berkeley (Spring 2021)
-* Head Graduate Instructor, Department of Economics, UC-Berkeley (Fall 2018 - Summer 2020)
-* Econ-202b (Graduate Macroeconomic Theory), Prof. Benjamin Schoefer. UC-Berkeley (Spring 2018)
-* Econ-375 (Pedagogy Course), Prof. Martha Olney. UC-Berkeley (Fall 2017)
-* Econ-002 (Introductory Economics), Profs. Christina and David Romer. UC-Berkeley (Spring 2017)
-* Econ-100b (Macroeconomic Theory), Prof. Ray Hawkins. UC-Berkeley (Fall 2016).
-* Econ-103 (Honors Intermediate Microeconomics), Profs. Vroman and Schwartz. Georgetown University (2012 - 2013)
-* Econ-001 (Introductory Microeconomics), Profs. Albrecht and Levinson. Georgetown University (2011 - 2012)
+* Econ-101b (Matrix Theory). SZU-IAS (Fall 2022)
+
 
 Talks and Presentations
 ======
