@@ -13,14 +13,12 @@ Also available as PDF: [1 page version](http://prestonmui.github.io/files/mui_cv
 
 Education
 ======
-* Ph.D. Economics, University of California - Berkeley, (2015 - present, expected May 2022)
-* A.B. Georgetown University, 2013
-_Summa cum laude_
-_Honors, Economics_
+* Ph.D. Control Theory, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, 2020, supervised by Lei Guo, Chanying Li.
+* A.B. Mathematics and Applied Mathematics, Peking University, 2015.
 
 Research and Publications
 ======
-See my [research page](https://prestonmui.github.io/research/).
+See my [research page](https://ZBLSIGMA.github.io/research/).
 
 Professional Experience
 ======
