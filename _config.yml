@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Preston Mui"
+title                    : "Zhaobo Liu"
 title_separator          : "-"
-name                     : &name "Preston Mui"
+name                     : &name "Zhaobo Liu"
 description              : &description "Economist"
-url                      : https://prestonmui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zblsigma.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "prestonmui/prestonmui.github.io"
+repository               : "zblsigma/zblsigma.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -86,7 +86,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "prestonmui@gmail.com"
+  email            : "liuzhaobo@szu.edu.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "prestonmui"
+  github           : "zblsigma"
   google_plus      :
   keybase          :
   instagram        :
