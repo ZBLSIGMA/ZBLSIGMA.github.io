@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in the Department of Economics at the University of California, Berkeley. I study Macroeconomics and Labor Economics.
+I am a Post-Doctoral Fellow in the School of Computer and Software, Shenzhen University. 
 
-In June I will be a Senior Economist at [Employ America](https://www.employamerica.org/).
+In Septempber I will be a assistant professor at [IAS SZU](https://ias.szu,eduu.cn).
