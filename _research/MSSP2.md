@@ -11,5 +11,5 @@ derive a necessary and sufficient condition for the “fixed-fixed” system. '
 date: 2022-07-01
 venue: 'submit at Mechanical Systems and Signal Processing'
 coauthors: 'Qida Xie, and Chanying Li'
-paperurl: 'https://ZBLSIGMA.github.io/files/mui-schoefer_2021wp_alsc1.pdf'
+paperurl: 'https://ZBLSIGMA.github.io/files/fixedfixed0703.pdf'
 ---
