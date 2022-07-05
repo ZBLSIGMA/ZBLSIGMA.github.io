@@ -22,9 +22,7 @@ See my [research page](https://ZBLSIGMA.github.io/research/).
 
 Professional Experience
 ======
-* Research Analyst, Federal Reserve Bank of New York, Research and Statistics Group, International Research Function (2013 - 2015)
-* Summer Research Analyst, Federal Reserve Bank of New York, Research and Statistics Division, International Research Group (2012)
-* Research Assistant, Environmental Protection Agency, National Center for Environmental Economics (2011 - 2012)
+* Post-Doctoral Fellow, College of Computer and Software, Shenzhen University (2020 - present, expected July 2022)
 
 Teaching
 ======
@@ -40,14 +38,10 @@ Teaching Assistantships:
 
 Talks and Presentations
 ======
-* ifo Conference on Macroeconomics and Survey Data (February 2020)
-* Society for Economic Dynamics Meeting (June 2019)
-* West Coast Search and Matching Conference (May 2019)
+* Proceedings of the 40th Chinese Control Conference, Shanghai, China (July 2021)
 
 Fellowships, Honors, and Awards
 ======
-* Eliot J. Swan Prize, UC-Berkeley Economics (2017)
-* Graduate Dean’s Summer Research Grant, UC-Berkeley (2016).
-* Graduate Research Fellow, UC-Berkeley Clausen Center for International Business and Policy (2016).
-* B.J. Phoenix Medal, Georgetown University (May 2013).
-* Henry Leslie Award, Georgetown University (May 2013).
+* IEEE CSS Beijing Chapter Young Author Prize Nomination (3/1662) (2021).
+* Dean Scholarship, Chinese Academy of Sciences (2019).
+* Pacemaker to Merit Student, Chinese Academy of Sciences (2019).
