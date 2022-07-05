@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Also available as PDF: [1 page version](http://prestonmui.github.io/files/mui_cv_1page.pdf), [2 page version](http://prestonmui.github.io/files/mui_cv.pdf).
+Also available as PDF: [CV](http://zblsigma.github.io/files/cv1.pdf).
 
 Education
 ======
