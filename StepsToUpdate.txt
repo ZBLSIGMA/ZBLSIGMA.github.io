@@ -1,0 +1,7 @@
+All modifications are made on the Website repo files
+
+After modifications:
+1. open terminal, go to Website folder, run command "hugo"
+2. commit and push public master branch
+3. commit and push Website master branch
+ 
