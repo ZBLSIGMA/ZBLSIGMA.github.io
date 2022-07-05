@@ -7,6 +7,6 @@ abstract: 'Multifactorial evolutionary algorithm (MFEA) is one of the most widel
 date: 2022-05-01
 venue: 'submit at IEEE Transactions on Evolutionary Computation'
 coauthors: 'Guo Li, Haili Zhang, Zhengping Liang, and Zexuan Zhu'
-paperurl: 'https://ZBLSIGMA.github.io/files/mui-schoefer_2021wp_alsc.pdf'
+paperurl: 'https://ZBLSIGMA.github.io/files/mui-schoefer_2021wp_alsc1.pdf'
 ---
 
