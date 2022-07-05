@@ -10,4 +10,4 @@ redirect_from:
 
 I am a Post-Doctoral Fellow in the School of Computer and Software, Shenzhen University. 
 
-In Septempber I will be a assistant professor at [IAS SZU](https://ias.szu,eduu.cn).
+In Septempber I will be a assistant professor at [IAS SZU](https://ias.szu.eduu.cn).
