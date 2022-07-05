@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "shenzhen-CN"
 title                    : "Zhaobo Liu"
 title_separator          : "-"
 name                     : &name "Zhaobo Liu"
@@ -82,11 +82,11 @@ analytics:
 author:
   avatar           : "preston-mui.jpg"
   bio              : "Ph.D. Candidate in Economics at the University of California, Berkeley"
-  location         : "Berkeley, CA"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "liuzhaobo@szu.edu.com"
+  email            : "liuzhaobo@szu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
