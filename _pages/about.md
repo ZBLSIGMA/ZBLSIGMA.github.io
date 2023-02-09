@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor at [IAS SZU](https://ias.szu.edu.cn).
+I am an Assistant Professor at [IAS SZU](https://ias.szu.edu.cn). My research interests lie in the field of control theory, data science, computational intelligence
+.
