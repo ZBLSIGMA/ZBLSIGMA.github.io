@@ -2,7 +2,7 @@
 title: "Least Squares Model Averaging for Distributed Data"
 collection: research
 status: 'workingpaper'
-permalink: /research/DGD
+permalink: /research/JMLR
 abstract: 'Divide and conquer algorithm is a common strategy applied in big data. Model averaging has the natural divide-and-conquer feature, but its theory has not been developed in big data scenarios. The goal  of this paper is to fill this gap.
 We propose two divide-and-conquer-type 
 model averaging estimators for  linear models with distributed data. 
