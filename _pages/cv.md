@@ -22,7 +22,8 @@ See my [research page](https://ZBLSIGMA.github.io/research/).
 
 Professional Experience
 ======
-* Post-Doctoral Fellow, College of Computer and Software, Shenzhen University (2020 - present, expected July 2022)
+* Research Scientist, Assistant Professor, Institute of Advanced Study, Shenzhen University(2022.9-present)
+* Post-Doctoral Fellow, College of Computer and Software, Shenzhen University (2020.9 - 2022.8)
 
 Teaching
 ======
