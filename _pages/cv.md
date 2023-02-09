@@ -27,7 +27,7 @@ Professional Experience
 
 Teaching
 ======
-* (Econ-101b) Matrix Theory. SZU-IAS (Fall 2022)
+* (L3-605) Matrix Theory. SZU-IAS (Fall 2022)
 
 
 Talks and Presentations
