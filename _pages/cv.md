@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Also available as PDF: [CV](http://zblsigma.github.io/files/cv1.pdf).
+Also available as PDF: [CV](http://zblsigma.github.io/files/cv.pdf).
 
 Education
 ======
