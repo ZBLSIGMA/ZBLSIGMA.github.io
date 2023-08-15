@@ -14,6 +14,6 @@ Our approaches contribute to model averaging theory in distributed data and para
 date: 2023-08-01
 venue: 'published at Journal of Machine Learning Research'
 coauthors: 'Haili Zhang, and Guohua Zou'
-paperurl: 'https://ZBLSIGMA.github.io/files/dMMA22.pdf'
+paperurl: 'https://ZBLSIGMA.github.io/files/22-0511.pdf'
 ---
 
