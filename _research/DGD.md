@@ -7,6 +7,6 @@ abstract: 'The multifactorial evolutionary algorithm (MFEA) is one of the most w
 date: 2023-04-01
 venue: 'IEEE Transactions on Cybernetics'
 coauthors: 'Guo Li, Haili Zhang, Zhengping Liang, and Zexuan Zhu'
-paperurl: 'https://ZBLSIGMA.github.io/files/tcyb2023.pdf'
+paperurl: 'https://ZBLSIGMA.github.io/files/tycb2023.pdf'
 ---
 
